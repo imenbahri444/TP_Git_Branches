@@ -1,4 +1,3 @@
 Version initiale de l'application.
 Modification depuis feature1
-Ligne modifiée par A.
-Ligne modifiée par B.
+Ligne modifiée par A et B.
